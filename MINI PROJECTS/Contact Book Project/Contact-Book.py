@@ -2,6 +2,9 @@ contacts = {}
 
 def add_contact():
     name = input("Enter name: ")
+    if name in contacts:
+        print("contact already exists")
+    else:
     number = input("Enter number: ")
 
     contacts[name] = number
@@ -24,6 +27,15 @@ def delete_contact():
         print("Contact deleted successfully")
     else:
         print("contact not found")
+        
+def update_contacts():
+    name = input("enter contact name to update: ")
+    if name in contacts:
+        new_numbers = input("Enter new phone number: ")
+        contacts[name] = new_number
+        print("contact updated succesfully")
+    else:
+        print("contact not found.")        
 
 def display_contacts():
     if len(contacts) == 0:
