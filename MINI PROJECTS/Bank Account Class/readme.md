@@ -6,6 +6,8 @@ A beginner OOPS project simulating a simple bank account.
 - Deposit money
 - Withdraw money
 - Display balance
+- negative amount check
+- multiple accounts
 
 ## Concepts Used
 - Classes & Objects
