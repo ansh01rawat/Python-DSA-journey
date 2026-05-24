@@ -13,6 +13,10 @@ This folder contains beginner DSA problems based on:
 - Majority Element
 - Top K Frequent Elements
 - Intersection of Two Arrays
+- Happy number
+- Group Anagram
+- longest consecutive sequence in array
+- find all disappeared memory in array
 
 ## Concepts Learned
 - HashMap usage
