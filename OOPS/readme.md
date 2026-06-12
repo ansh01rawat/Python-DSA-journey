@@ -12,6 +12,7 @@ This folder contains Object-Oriented Programming practice programs.
 - Student Class
 - Quiz Program
 - Bank Account System
+- Employee Class
 
 ## Language Used
 Python
