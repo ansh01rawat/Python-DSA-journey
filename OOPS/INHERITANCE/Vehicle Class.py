@@ -1,15 +1,15 @@
-class Vehicle:
-    def __init__(self,brand,model):
-        self.brand = brand
-        self.model = model
-    def displayinfo(self):
+class Vehicle: #parent  
+    def __init__(self,brand,model):    #constructor
+        self.brand = brand    #instance attribute
+        self.model = model    #instance attribute
+    def displayinfo(self):       #instance method
         print("model = " + self.model)
         print("brand = " + self.brand)
-class Car(Vehicle):
+class Car(Vehicle):     #child
     pass
-class Bike(Vehicle):
+class Bike(Vehicle):    #child
     pass
-
+# execution
 b1 = Bike("hero","splender")
 c1 = Car("Toyota","Prius")
 print("car details")
