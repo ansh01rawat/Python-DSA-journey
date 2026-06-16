@@ -7,6 +7,7 @@ This repository contains beginner Python projects built while learning programmi
 - Student Marks Analyzer
 - Quiz Application
 - Bank Account System
+- Menu Functions
 
 ## Concepts Used
 - Functions
