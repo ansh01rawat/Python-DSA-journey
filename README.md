@@ -14,6 +14,7 @@ This repository documents my journey learning:
 - Sorting
 - OOPS Basics
 - Mini Projects
+- Two pointers
 
 ## Folder Structure
 
@@ -21,11 +22,17 @@ Python-DSA-Journey/
 
 
 ├── Arrays-and-Hashing/
+
 ├── Two pointers
+
 ├── Recursion/
+
 ├── OOPS/
+
 ├── Mini-Projects/
+
 ├── Notes/
+
 └── README.md
 
 ## Goal
