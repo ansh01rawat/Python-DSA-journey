@@ -6,6 +6,7 @@ This repository documents my journey learning:
 - Problem Solving
 - OOPS
 - Mini Projects
+- Two pointers
 
 ## Topics Covered
 - Arrays & Hashing
@@ -20,15 +21,11 @@ Python-DSA-Journey/
 
 
 ├── Arrays-and-Hashing/
-
+├── Two pointers
 ├── Recursion/
-
 ├── OOPS/
-
 ├── Mini-Projects/
-
 ├── Notes/
-
 └── README.md
 
 ## Goal
