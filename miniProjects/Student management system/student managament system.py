@@ -24,6 +24,21 @@ def del_student():
         print("student deleted successfully")
     else:
         print("student not found")
+def update_student():
+    name = input("enter name to update: ")
+
+    if name in students:
+        updated_name = input("enter new name: ")
+        if updated_name in students:
+            print("student with this name already exists")
+            return
+        students[updated_name] = students[name]
+        del students[name]
+        print("student updated successfully")
+    else:
+        print("student not found")
+
+
 def display_students():
     if not students:
         print("list is empty")
@@ -41,7 +56,8 @@ def menu():
         print("2. Search Student")
         print("3. Delete Student")
         print("4. Display Student")
-        print("5. Exit Program")
+        print("5. Update Student")
+        print("6. Exit Program")
         try:
             choice = int(input("enter your choice "))
         except ValueError:
@@ -56,6 +72,8 @@ def menu():
         elif choice == 4:
             display_students()
         elif choice == 5:
+            update_student()
+        elif choice == 6:
             print("exiting program...")
             break
         else:
