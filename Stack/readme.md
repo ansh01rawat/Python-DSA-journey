@@ -68,10 +68,11 @@ if not stack:
 ### Easy
 
 * Valid Parentheses
+* Base Ball Game
 
 ### Medium
 
-* coming soon...
+* Minstack
 
 ---
 
