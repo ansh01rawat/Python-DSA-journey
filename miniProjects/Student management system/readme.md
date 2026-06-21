@@ -2,9 +2,9 @@
 
 ## Overview
 
-Student Management System is a simple Python-based console application that allows users to manage student records through a menu-driven interface.
+The **Student Management System** is a console-based Python application that allows users to manage student records efficiently through a menu-driven interface.
 
-The project demonstrates the use of Python dictionaries, functions, loops, exception handling, and CRUD (Create, Read, Delete) operations.
+This project demonstrates the use of Python fundamentals such as dictionaries, functions, loops, exception handling, and CRUD operations.
 
 ---
 
@@ -12,10 +12,11 @@ The project demonstrates the use of Python dictionaries, functions, loops, excep
 
 * Add Student
 * Search Student
+* Update Student
 * Delete Student
 * Display All Students
-* Prevent Duplicate Entries
-* Handle Invalid Inputs
+* Prevent Duplicate Student Entries
+* Handle Invalid User Input
 * Menu-Driven Interface
 
 ---
@@ -23,7 +24,7 @@ The project demonstrates the use of Python dictionaries, functions, loops, excep
 ## Technologies Used
 
 * Python
-* Dictionaries
+* Dictionaries (Hash Maps)
 * Functions
 * Loops
 * Conditional Statements
@@ -44,7 +45,9 @@ StudentManagementSystem/
 
 ## How It Works
 
-The program stores student records in a dictionary:
+Student records are stored in a Python dictionary.
+
+Example:
 
 ```python
 students = {
@@ -53,24 +56,12 @@ students = {
 }
 ```
 
-* Key → Student Name
-* Value → Enrollment Number
+* **Key** → Student Name
+* **Value** → Enrollment Number
 
 ---
 
 ## Menu Options
-
-```text
-1. Add Student
-2. Search Student
-3. Delete Student
-4. Display Students
-5. Exit Program
-```
-
----
-
-## Example Output
 
 ```text
 ====== Student Management System ======
@@ -79,10 +70,21 @@ students = {
 2. Search Student
 3. Delete Student
 4. Display Students
-5. Exit Program
+5. Update Student
+6. Exit Program
+```
 
-Enter your choice: 1
+---
 
+## Functionalities
+
+### Add Student
+
+Allows users to add a new student record.
+
+Example:
+
+```text
 Name of the student: Ansh
 Enrollment no.: 12345
 
@@ -91,26 +93,95 @@ Ansh added successfully
 
 ---
 
-## Complexity Analysis
+### Search Student
+
+Searches for a student by name.
+
+Example:
+
+```text
+Name of the student: Ansh
+
+Name = Ansh | Enrollment no. 12345
+```
+
+---
+
+### Update Student
+
+Updates an existing student's name while preserving the enrollment number.
+
+Example:
+
+```text
+Enter name to update: Ansh
+Enter new name: Rahul
+
+Student updated successfully
+```
+
+---
+
+### Delete Student
+
+Removes a student record from the system.
+
+Example:
+
+```text
+Enter name to delete: Rahul
+
+Student deleted successfully
+```
+
+---
+
+### Display Students
+
+Displays all student records currently stored in the system.
+
+Example:
+
+```text
+Name = Ansh | Enrollment no. 12345
+Name = Rahul | Enrollment no. 67890
+```
+
+---
+
+## Error Handling
+
+The application handles:
+
+* Invalid menu choices
+* Non-integer enrollment numbers
+* Duplicate student names
+* Updating to an already existing student name
+* Searching or deleting non-existing students
+
+---
+
+## Time Complexity Analysis
 
 | Operation        | Time Complexity |
 | ---------------- | --------------- |
 | Add Student      | O(1)            |
 | Search Student   | O(1)            |
+| Update Student   | O(1)            |
 | Delete Student   | O(1)            |
 | Display Students | O(n)            |
 
-where n is the number of students.
+where **n** is the number of students.
 
 ---
 
 ## Concepts Practiced
 
-* Dictionaries (Hash Maps)
+* Python Dictionaries
 * Functions
 * CRUD Operations
-* User Input Handling
 * Exception Handling
+* User Input Validation
 * Menu-Driven Programming
 
 ---
@@ -119,27 +190,28 @@ where n is the number of students.
 
 Through this project, I learned:
 
-* How to organize code using functions
-* How to store and retrieve data using dictionaries
-* How to handle invalid user input with try-except
-* How CRUD operations work in real-world applications
-* How to build a complete console-based Python application
+* How to organize code using functions.
+* How to perform CRUD operations.
+* How dictionaries provide efficient data storage and retrieval.
+* How to validate user input using `try-except`.
+* How to build a complete console-based Python application.
 
 ---
 
 ## Future Improvements
 
-* Update Student Details
-* Store Multiple Student Attributes
-* Save Data to File
-* Load Data from File
+* Update Enrollment Number
+* Store Additional Student Information (Course, Year, Email)
+* Save Data to Files
+* Load Data from Files
 * Sort Students Alphabetically
+* Use Nested Dictionaries
 
 ---
 
-### Author
+## Author
 
-Ansh Rawat
+**Ansh Rawat**
 
 B.Tech CSE (Applied Mathematics)
 
