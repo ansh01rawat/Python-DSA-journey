@@ -23,7 +23,11 @@ Python-DSA-Journey/
 
 ├── Arrays-and-Hashing/
 
-├── Two pointers
+├── Two pointers/
+
+├── Binary search/
+
+├── Stack/
 
 ├── Recursion/
 
