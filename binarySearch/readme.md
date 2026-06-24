@@ -60,6 +60,7 @@ def binary_search(nums, target):
 * Binary Search (LeetCode 704)
 * Guess Number (Leetcode 374)
 * Search Insert Position (Leetcode 35)
+* First Bad Version
 
 ### Medium
 
