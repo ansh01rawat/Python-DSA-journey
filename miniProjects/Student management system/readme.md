@@ -17,6 +17,8 @@ This project demonstrates the use of Python fundamentals such as dictionaries, f
 * Display All Students
 * Prevent Duplicate Student Entries
 * Handle Invalid User Input
+* Save data in file
+* Load data from file
 * Menu-Driven Interface
 
 ---
@@ -29,6 +31,7 @@ This project demonstrates the use of Python fundamentals such as dictionaries, f
 * Loops
 * Conditional Statements
 * Exception Handling
+* File Handling
 
 ---
 
