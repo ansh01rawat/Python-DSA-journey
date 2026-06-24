@@ -46,6 +46,21 @@ def display_students():
     for name,enroll in students.items():
         print(f"Name = {name} | Enrollment no. {enroll}")
 
+def save_students():
+    with open("students.txt","w") as file:
+        for name,enroll in students.items():
+            file.write(f"{name},{enroll}\n")
+    print("student data saved successfully")
+
+def load_students():
+        try:
+            with open("students.txt","r") as file:
+                for line in file:
+                    name,enroll = line.strip().split(",")
+                    students[name] = int(enroll)
+            print("student data loaded successfully")
+        except FileNotFoundError:
+            print("no previous data found")
 
 def menu():
 
@@ -75,9 +90,10 @@ def menu():
             update_student()
         elif choice == 6:
             print("exiting program...")
+            save_students()
             break
         else:
             print("invalid input")
 
-
+load_students()
 menu()
