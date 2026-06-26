@@ -48,7 +48,9 @@ class Node:
 
 * LeetCode 206 - Reverse Linked List
 * LeetCode 21 - Merge Two Sorted Lists
-
+* Leetcode 83 - Remove Duplicates  From List
+* Leetcode 876 - Middle Of The Linked List
+* Leetcode 141 - Linked List Cycle
 ## Key Learnings
 
 * Understanding pointer manipulation
