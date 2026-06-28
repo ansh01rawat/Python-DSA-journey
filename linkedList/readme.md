@@ -51,6 +51,8 @@ class Node:
 * Leetcode 83 - Remove Duplicates  From List
 * Leetcode 876 - Middle Of The Linked List
 * Leetcode 141 - Linked List Cycle
+* Leetcode 160 - Intersection Of Two Linked List
+* Leetcode 19 - Remove Nth Node From The List
 ## Key Learnings
 
 * Understanding pointer manipulation
