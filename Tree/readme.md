@@ -94,6 +94,12 @@ Left → Right → Root
 
 * ✅ 104. Maximum Depth of Binary Tree
 * ✅ 100. Same Tree
+* ✅ 543. Diameter of Binary Tree
+* ✅ 110. Balanced Binary Tree
+* ✅ 101. Symmetric Tree
+* ✅ 226. Invert Binary Tree
+* ✅ 145. Binary Tree Postorder Traversal
+* ✅ 144. Binary Tree Preorder Traversal
 
 More tree problems will be added as I progress.
 
