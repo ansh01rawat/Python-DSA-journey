@@ -20,15 +20,15 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 
 | Topic               | Problems Solved |     Status     |
 | ------------------- | --------------: | :------------: |
-| Arrays              |               0 |        ⬜       |
-| Hashing             |               0 |        ⬜       |
-| Two Pointers        |               0 |        ⬜       |
-| Stack               |               0 |        ⬜       |
-| Queue               |               0 |        ⬜       |
-| Binary Search       |               0 |        ⬜       |
-| Linked List         |               0 |        ⬜       |
-| Recursion           |               0 |        ⬜       |
-| Trees               |               0 | 🟨 In Progress |
+| Arrays              |               12 |        ⬜       |
+| Hashing             |               12 |        ⬜       |
+| Two Pointers        |               04 |        ⬜       |
+| Stack               |               04 |        ⬜       |
+| Queue               |               01 |        ⬜       |
+| Binary Search       |               04 |        ⬜       |
+| Linked List         |               08 |        ⬜       |
+| Recursion           |               03 |        ⬜       |
+| Trees               |               08 | 🟨 In Progress |
 | Heap                |               0 |        ⬜       |
 | Trie                |               0 |        ⬜       |
 | Graphs              |               0 |        ⬜       |
