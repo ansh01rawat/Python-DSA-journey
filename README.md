@@ -16,6 +16,32 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 * 🎯 Long-term Goal: Become an AI/ML Engineer
 
 ---
+## 📊 DSA Progress Tracker
+
+| Topic               | Problems Solved |     Status     |
+| ------------------- | --------------: | :------------: |
+| Arrays              |               0 |        ⬜       |
+| Hashing             |               0 |        ⬜       |
+| Two Pointers        |               0 |        ⬜       |
+| Stack               |               0 |        ⬜       |
+| Queue               |               0 |        ⬜       |
+| Binary Search       |               0 |        ⬜       |
+| Linked List         |               0 |        ⬜       |
+| Recursion           |               0 |        ⬜       |
+| Trees               |               0 | 🟨 In Progress |
+| Heap                |               0 |        ⬜       |
+| Trie                |               0 |        ⬜       |
+| Graphs              |               0 |        ⬜       |
+| Backtracking        |               0 |        ⬜       |
+| Dynamic Programming |               0 |        ⬜       |
+| Greedy              |               0 |        ⬜       |
+| Sliding Window      |               0 |        ⬜       |
+
+### 🏆 Total Problems Solved
+
+**0**
+
+---
 
 # 📚 Repository Structure
 
