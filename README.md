@@ -1,43 +1,133 @@
-# Python DSA Journey
+# 🚀 Python DSA Journey
 
-This repository documents my journey learning:
-- Python
-- Data Structures & Algorithms
-- Problem Solving
-- OOPS
-- Mini Projects
-- Two pointers
+Welcome to my **Python Data Structures & Algorithms Journey**!
 
-## Topics Covered
-- Arrays & Hashing
-- Recursion
-- Sorting
-- OOPS Basics
-- Mini Projects
-- Two pointers
+This repository documents my progress as I learn Data Structures & Algorithms from scratch using **Python**. Every topic includes notes, well-commented solutions, and mini projects that help strengthen my understanding.
 
-## Folder Structure
+My goal is not just to solve coding problems, but to build strong problem-solving skills for **Software Engineering**, **Artificial Intelligence**, and **Machine Learning**.
 
-Python-DSA-Journey/
+---
 
+# 👨‍💻 About Me
 
-├── Arrays-and-Hashing/
+* 🎓 B.Tech CSE (Applied Mathematics)
+* 💻 Passionate about Python, AI/ML, and Problem Solving
+* 🌱 Currently learning Data Structures & Algorithms
+* 🎯 Long-term Goal: Become an AI/ML Engineer
 
-├── Two pointers/
+---
 
-├── Binary search/
+# 📚 Repository Structure
 
-├── Stack/
-
-├── Recursion/
-
-├── OOPS/
-
-├── Mini-Projects/
-
-├── Notes/
-
+```
+Python-DSA-Journey
+│
+├── Arrays
+├── Binary Search
+├── Linked List
+├── Queue
+├── Stack
+├── Recursion
+├── Trees
+├── OOP
+├── miniProjects
+│   ├── Student Management System
+│   └── ...
 └── README.md
+```
 
-## Goal
-To become an AI/ML Engineer with strong software engineering fundamentals.
+---
+
+# ✅ Topics Completed
+
+* ✔ Python Fundamentals
+* ✔ Object-Oriented Programming (OOP)
+* ✔ Arrays
+* ✔ Hashing
+* ✔ Two Pointers
+* ✔ Binary Search
+* ✔ Linked List
+* ✔ Stack
+* ✔ Queue
+* ✔ Recursion
+* ✔ Trees *(In Progress)*
+
+---
+
+# 🚀 Upcoming Topics
+
+* Heap / Priority Queue
+* Trie
+* Graphs
+* Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+* Sliding Window
+* Advanced Trees
+
+---
+
+# 🛠 Mini Projects
+
+This repository also includes beginner Python projects to apply programming concepts in real-world scenarios.
+
+Current projects include:
+
+* 🎓 Student Management System
+* 📂 More projects coming soon...
+
+---
+
+# 🎯 Learning Philosophy
+
+I believe consistency beats intensity.
+
+Instead of rushing through hundreds of problems, I focus on:
+
+* Understanding the algorithm
+* Writing clean and readable code
+* Improving problem-solving skills
+* Maintaining a well-organized GitHub portfolio
+
+---
+
+# 📈 Current Progress
+
+```
+Python Fundamentals      ██████████ 100%
+OOP                      ██████████ 100%
+Arrays                   ██████████ 100%
+Hashing                  ██████████ 100%
+Binary Search            ██████████ 100%
+Linked List              ██████████ 100%
+Stack                    ██████████ 100%
+Queue                    ██████████ 100%
+Recursion                ██████████ 100%
+Trees                    ██████░░░░ 60%
+Heap                     ░░░░░░░░░░ 0%
+Graphs                   ░░░░░░░░░░ 0%
+Dynamic Programming      ░░░░░░░░░░ 0%
+```
+
+---
+
+# 🎯 Future Plans
+
+After completing DSA, I plan to build projects in:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* AI Applications
+* Robotics
+
+This repository will continue to grow throughout my engineering journey.
+
+---
+
+# ⭐ Thanks for Visiting
+
+If you found this repository helpful, consider giving it a ⭐.
+
+Happy Coding! 🚀
