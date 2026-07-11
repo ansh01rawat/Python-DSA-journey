@@ -100,6 +100,9 @@ Left → Right → Root
 * ✅ 226. Invert Binary Tree
 * ✅ 145. Binary Tree Postorder Traversal
 * ✅ 144. Binary Tree Preorder Traversal
+* ✅ 102. Binary Tree Level Order Traversal
+* ✅ 98. Validate Binary Search Tree
+* ✅ 230. Kth Smallest Element in a BST
 
 More tree problems will be added as I progress.
 
