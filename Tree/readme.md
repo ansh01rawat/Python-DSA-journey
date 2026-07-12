@@ -103,6 +103,9 @@ Left → Right → Root
 * ✅ 102. Binary Tree Level Order Traversal
 * ✅ 98. Validate Binary Search Tree
 * ✅ 230. Kth Smallest Element in a BST
+* ✅ 235. Lowest Common Ancestor of a Binary Search Tree
+* ✅ 700. Search in a Binary Search Tree
+* ✅ 701. Insert into a Binary Search Tree
 
 More tree problems will be added as I progress.
 
