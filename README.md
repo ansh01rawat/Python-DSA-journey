@@ -163,6 +163,26 @@ This repository will continue to grow throughout my engineering journey.
 
 ---
 
+# 🏆 Milestones
+
+✅ 10 Problems
+
+✅ 25 Problems
+
+✅ 50 Problems
+
+⬜ 75 Problems
+
+⬜ 100 Problems
+
+⬜ First Internship
+
+⬜ First AI Project
+
+⬜ Graduate
+
+---
+
 # ⭐ Thanks for Visiting
 
 If you found this repository helpful, consider giving it a ⭐.
