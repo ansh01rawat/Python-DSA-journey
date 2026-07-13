@@ -137,16 +137,27 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 
 ---
 
-# 🎯 Future Plans
+## 🗺️ Learning Roadmap
 
-After completing DSA, I plan to build projects in:
+✅ Python Fundamentals
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* AI Applications
-* Robotics
+✅ OOP
+
+✅ Arrays
+
+✅ Trees
+
+🔄 Heap
+
+⬜ Graphs
+
+⬜ Dynamic Programming
+
+⬜ Machine Learning
+
+⬜ Deep Learning
+
+⬜ AI Projects
 
 This repository will continue to grow throughout my engineering journey.
 
