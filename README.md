@@ -28,7 +28,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Binary Search       |               04 |        ⬜       |
 | Linked List         |               08 |        ⬜       |
 | Recursion           |               03 |        ⬜       |
-| Trees               |               15 |        ⬜       |
+| Trees               |               15 |🟩 Completed     |
 | Heap                |               0 | 🟨 In Progress      |
 | Trie                |               0 |        ⬜       |
 | Graphs              |               0 |        ⬜       |
