@@ -129,7 +129,7 @@ Linked List              ██████████ 100%
 Stack                    ██████████ 100%
 Queue                    ██████████ 100%
 Recursion                ██████████ 100%
-Trees                    ██████░░░░ 60%
+Trees                    ██████████ 100%
 Heap                     ░░░░░░░░░░ 0%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
