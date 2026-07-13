@@ -106,6 +106,7 @@ Left → Right → Root
 * ✅ 235. Lowest Common Ancestor of a Binary Search Tree
 * ✅ 700. Search in a Binary Search Tree
 * ✅ 701. Insert into a Binary Search Tree
+* ✅ 236. Lowest Common Ancestor of a Binary Tree
 
 More tree problems will be added as I progress.
 
