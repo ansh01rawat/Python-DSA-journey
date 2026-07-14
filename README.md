@@ -29,7 +29,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Linked List         |               08 |        ⬜       |
 | Recursion           |               03 |        ⬜       |
 | Trees               |               15 |🟩 Completed     |
-| Heap                |               0 | 🟨 In Progress      |
+| Heap                |               2 | 🟨 In Progress      |
 | Trie                |               0 |        ⬜       |
 | Graphs              |               0 |        ⬜       |
 | Backtracking        |               0 |        ⬜       |
@@ -39,7 +39,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 
 ### 🏆 Total Problems Solved
 
-**50**
+**52**
 
 ---
 
@@ -54,6 +54,7 @@ Python-DSA-Journey
 ├── Queue
 ├── Stack
 ├── Recursion
+├── Heap
 ├── Trees
 ├── OOP
 ├── miniProjects
@@ -130,7 +131,7 @@ Stack                    ██████████ 100%
 Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
-Heap                     ░░░░░░░░░░ 0%
+Heap                     ██░░░░░░░ 20%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
