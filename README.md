@@ -77,7 +77,8 @@ Python-DSA-Journey
 * ✔ Stack
 * ✔ Queue
 * ✔ Recursion
-* ✔ Trees *(In Progress)*
+* ✔ Trees
+* ✔ heap *In progress*
 
 ---
 
