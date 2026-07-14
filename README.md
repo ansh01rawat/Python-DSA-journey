@@ -141,25 +141,45 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 ## 🗺️ Learning Roadmap
 
 ✅ Python Fundamentals
+
 ✅ Object-Oriented Programming
+
 ✅ Arrays
+
 ✅ Hashing
+
 ✅ Two Pointers
+
 ✅ Binary Search
+
 ✅ Linked List
+
 ✅ Stack
+
 ✅ Queue
+
 ✅ Recursion
+
 ✅ Trees
+
 🔄 Heap
+
 ⬜ Trie
+
 ⬜ Graphs
+
 ⬜ Backtracking
+
 ⬜ Greedy
+
 ⬜ Dynamic Programming
+
 ⬜ Machine Learning
+
 ⬜ Deep Learning
+
 ⬜ AI Projects
+
 
 This repository will continue to grow throughout my engineering journey.
 
