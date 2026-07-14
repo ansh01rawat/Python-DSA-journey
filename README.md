@@ -78,13 +78,12 @@ Python-DSA-Journey
 * ✔ Queue
 * ✔ Recursion
 * ✔ Trees
-* ✔ heap *In progress*
+* 🔄 Heap (In Progress)
 
 ---
 
 # 🚀 Upcoming Topics
 
-* Heap / Priority Queue
 * Trie
 * Graphs
 * Backtracking
@@ -132,7 +131,7 @@ Stack                    ██████████ 100%
 Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
-Heap                     ██░░░░░░░ 20%
+Heap                     ███░░░░░░░ 30%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -142,23 +141,24 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 ## 🗺️ Learning Roadmap
 
 ✅ Python Fundamentals
-
-✅ OOP
-
+✅ Object-Oriented Programming
 ✅ Arrays
-
+✅ Hashing
+✅ Two Pointers
+✅ Binary Search
+✅ Linked List
+✅ Stack
+✅ Queue
+✅ Recursion
 ✅ Trees
-
 🔄 Heap
-
+⬜ Trie
 ⬜ Graphs
-
+⬜ Backtracking
+⬜ Greedy
 ⬜ Dynamic Programming
-
 ⬜ Machine Learning
-
 ⬜ Deep Learning
-
 ⬜ AI Projects
 
 This repository will continue to grow throughout my engineering journey.
