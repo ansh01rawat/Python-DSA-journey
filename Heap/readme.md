@@ -29,7 +29,8 @@ The goal of this section is to understand how heaps work internally and how they
 | -------: | ------------------------------- | :--------: | :----: |
 |      703 | Kth Largest Element in a Stream |    Easy    |    ✅   |
 |     1046 | Last Stone Weight               |    Easy    |    ✅   |
-
+|      215 | Kth Largest Element in an Array |    Medium  |    ✅   |
+|      347 | Top K Frequent Elements         |    Medium  |    ✅   |
 ---
 
 ## 🛠 Concepts Learned
@@ -65,16 +66,6 @@ The goal of this section is to understand how heaps work internally and how they
 
 ---
 
-## 📂 Folder Structure
-
-```text
-Heap/
-│
-├── Heap_Implementation.py
-├── 703_Kth_Largest_Element_in_a_Stream.py
-├── 1046_Last_Stone_Weight.py
-└── README.md
-```
 
 ## 🚀 Learning Goal
 
