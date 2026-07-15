@@ -20,16 +20,16 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 
 | Topic               | Problems Solved |     Status     |
 | ------------------- | --------------: | :------------: |
-| Arrays              |               12 |        ⬜       |
-| Hashing             |               12 |        ⬜       |
-| Two Pointers        |               04 |        ⬜       |
-| Stack               |               04 |        ⬜       |
-| Queue               |               01 |        ⬜       |
-| Binary Search       |               04 |        ⬜       |
-| Linked List         |               08 |        ⬜       |
-| Recursion           |               03 |        ⬜       |
+| Arrays              |               12 |🟩 Completed     |
+| Hashing             |               12 |🟩 Completed     |
+| Two Pointers        |               04 |🟩 Completed     |
+| Stack               |               04 |🟩 Completed     |
+| Queue               |               01 |🟩 Completed     |
+| Binary Search       |               04 |🟩 Completed     |
+| Linked List         |               08 |🟩 Completed     |
+| Recursion           |               03 |🟩 Completed     |
 | Trees               |               15 |🟩 Completed     |
-| Heap                |               2 | 🟨 In Progress      |
+| Heap                |               2 | 🟨 In Progress   |
 | Trie                |               0 |        ⬜       |
 | Graphs              |               0 |        ⬜       |
 | Backtracking        |               0 |        ⬜       |
@@ -49,17 +49,17 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 Python-DSA-Journey
 │
 ├── Arrays
+├── Hashing
+├── Two Pointers
 ├── Binary Search
 ├── Linked List
-├── Queue
 ├── Stack
+├── Queue
 ├── Recursion
-├── Heap
 ├── Trees
+├── Heap
 ├── OOP
 ├── miniProjects
-│   ├── Student Management System
-│   └── ...
 └── README.md
 ```
 
@@ -78,7 +78,7 @@ Python-DSA-Journey
 * ✔ Queue
 * ✔ Recursion
 * ✔ Trees
-* 🔄 Heap (In Progress)
+* ✔ Heap (In Progress)
 
 ---
 
@@ -131,7 +131,7 @@ Stack                    ██████████ 100%
 Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
-Heap                     ███░░░░░░░ 30%
+Heap                     ████░░░░░░ 40%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -202,6 +202,11 @@ This repository will continue to grow throughout my engineering journey.
 ⬜ First AI Project
 
 ⬜ Graduate
+
+---
+## 🔗 Connect With Me
+
+- GitHub: https://github.com/ansh01rawat
 
 ---
 
