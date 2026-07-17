@@ -33,6 +33,7 @@ The goal of this section is to understand how heaps work internally and how they
 |      347 | Top K Frequent Elements         |    Medium  |    ✅   |
 |      973 | K Closest Points to Origin      |    Medium  |    ✅   |
 |      621 | Task Sheduler                   |    Medium  |    ✅   |
+|      295 | Median from Data Stream         |    Hard    |    ✅   |
 ---
 
 ## 🛠 Concepts Learned
