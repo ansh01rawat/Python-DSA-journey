@@ -29,7 +29,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Linked List         |               08 |🟩 Completed     |
 | Recursion           |               03 |🟩 Completed     |
 | Trees               |               15 |🟩 Completed     |
-| Heap                |               2 | 🟨 In Progress   |
+| Heap                |               6 | 🟩 Completed     |
 | Trie                |               0 |        ⬜       |
 | Graphs              |               0 |        ⬜       |
 | Backtracking        |               0 |        ⬜       |
@@ -39,7 +39,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 
 ### 🏆 Total Problems Solved
 
-**52**
+**56**
 
 ---
 
@@ -131,7 +131,7 @@ Stack                    ██████████ 100%
 Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
-Heap                     ████░░░░░░ 40%
+Heap                     ██████████ 100%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -162,7 +162,7 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 
 ✅ Trees
 
-🔄 Heap
+✅ Heap
 
 ⬜ Trie
 
