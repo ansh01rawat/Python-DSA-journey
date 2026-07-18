@@ -30,16 +30,16 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Recursion           |               03 |🟩 Completed     |
 | Trees               |               15 |🟩 Completed     |
 | Heap                |               6 | 🟩 Completed     |
-| Trie                |               0 |        ⬜       |
-| Graphs              |               0 |        ⬜       |
-| Backtracking        |               0 |        ⬜       |
-| Dynamic Programming |               0 |        ⬜       |
-| Greedy              |               0 |        ⬜       |
-| Sliding Window      |               0 |        ⬜       |
+| Trie                |               0 |        ⬜        |
+| Graphs              |               0 |        ⬜        |
+| Backtracking        |               2 | 🟨 In Progress   |
+| Dynamic Programming |               0 |        ⬜        |
+| Greedy              |               0 |        ⬜        |
+| Sliding Window      |               0 |        ⬜        |
 
 ### 🏆 Total Problems Solved
 
-**56**
+**58**
 
 ---
 
@@ -78,7 +78,8 @@ Python-DSA-Journey
 * ✔ Queue
 * ✔ Recursion
 * ✔ Trees
-* ✔ Heap (In Progress)
+* ✔ Heap
+* ✔ Back Tracking *In Progress*
 
 ---
 
@@ -86,7 +87,6 @@ Python-DSA-Journey
 
 * Trie
 * Graphs
-* Backtracking
 * Dynamic Programming
 * Greedy Algorithms
 * Sliding Window
@@ -132,6 +132,7 @@ Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
+Backtracking             ██░░░░░░░░ 20%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -168,7 +169,7 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 
 ⬜ Graphs
 
-⬜ Backtracking
+🟨 Backtracking (In Progress)
 
 ⬜ Greedy
 
