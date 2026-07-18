@@ -58,6 +58,7 @@ Python-DSA-Journey
 ├── Recursion
 ├── Trees
 ├── Heap
+├── Back Tracking
 ├── OOP
 ├── miniProjects
 └── README.md
@@ -194,7 +195,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-⬜ 75 Problems
+🟨 58 / 75 Problems
 
 ⬜ 100 Problems
 
