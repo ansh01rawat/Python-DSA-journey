@@ -32,14 +32,14 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Heap                |               6 | 🟩 Completed     |
 | Trie                |               0 |        ⬜        |
 | Graphs              |               0 |        ⬜        |
-| Backtracking        |               2 | 🟨 In Progress   |
+| Backtracking        |               4 | 🟨 In Progress   |
 | Dynamic Programming |               0 |        ⬜        |
 | Greedy              |               0 |        ⬜        |
 | Sliding Window      |               0 |        ⬜        |
 
 ### 🏆 Total Problems Solved
 
-**58**
+**60**
 
 ---
 
@@ -133,7 +133,7 @@ Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
-Backtracking             ██░░░░░░░░ 20%
+Backtracking             ████░░░░░░ 40%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -195,7 +195,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 58 / 75 Problems
+🟨 60 / 75 Problems
 
 ⬜ 100 Problems
 
