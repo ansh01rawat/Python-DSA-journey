@@ -48,8 +48,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 ```
 Python-DSA-Journey
 │
-├── Arrays
-├── Hashing
+├── Arrays and Hashing
 ├── Two Pointers
 ├── Binary Search
 ├── Linked List
@@ -58,7 +57,7 @@ Python-DSA-Journey
 ├── Recursion
 ├── Trees
 ├── Heap
-├── Back Tracking
+├── Backtracking
 ├── OOP
 ├── miniProjects
 └── README.md
