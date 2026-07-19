@@ -10,8 +10,8 @@ Backtracking is a recursive problem-solving technique that explores all possible
 |---|---------|------------|--------|
 | 78 | Subsets | Medium | ✅ |
 | 90 | Subsets II | Medium | ✅ |
-| 39 | Combination Sum | Medium | ⬜ |
-| 40 | Combination Sum II | Medium | ⬜ |
+| 39 | Combination Sum | Medium | ✅ |
+| 40 | Combination Sum II | Medium | ✅ |
 | 46 | Permutations | Medium | ⬜ |
 | 17 | Letter Combinations of a Phone Number | Medium | ⬜ |
 | 79 | Word Search | Medium | ⬜ |
@@ -74,6 +74,8 @@ Current Progress:
 
 - ✅ 78. Subsets
 - ✅ 90. Subsets II
+- ✅ 39. Combination Sum I
+- ✅ 40. Combination Sum II
 - ⬜ Remaining Problems
 
 ---
