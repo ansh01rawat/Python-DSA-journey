@@ -12,7 +12,8 @@ Backtracking is a recursive problem-solving technique that explores all possible
 | 90 | Subsets II | Medium | ✅ |
 | 39 | Combination Sum | Medium | ✅ |
 | 40 | Combination Sum II | Medium | ✅ |
-| 46 | Permutations | Medium | ⬜ |
+| 46 | Permutations | Medium | ✅ |
+| 47 | Permutations II | Medium | ✅ |
 | 17 | Letter Combinations of a Phone Number | Medium | ⬜ |
 | 79 | Word Search | Medium | ⬜ |
 | 131 | Palindrome Partitioning | Medium | ⬜ |
