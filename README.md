@@ -29,17 +29,17 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Linked List         |               08 |🟩 Completed     |
 | Recursion           |               03 |🟩 Completed     |
 | Trees               |               15 |🟩 Completed     |
-| Heap                |               6 | 🟩 Completed     |
-| Trie                |               0 |        ⬜        |
-| Graphs              |               0 |        ⬜        |
-| Backtracking        |               4 | 🟨 In Progress   |
-| Dynamic Programming |               0 |        ⬜        |
-| Greedy              |               0 |        ⬜        |
-| Sliding Window      |               0 |        ⬜        |
+| Heap                |               06 |🟩 Completed     |
+| Trie                |               00 |        ⬜       |
+| Graphs              |               00 |        ⬜       |
+| Backtracking        |               06 |🟨 In Progress   |
+| Dynamic Programming |               00 |        ⬜       |
+| Greedy              |               00 |        ⬜       |
+| Sliding Window      |               00 |        ⬜       |
 
 ### 🏆 Total Problems Solved
 
-**60**
+**62**
 
 ---
 
