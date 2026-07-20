@@ -77,6 +77,8 @@ Current Progress:
 - ✅ 90. Subsets II
 - ✅ 39. Combination Sum I
 - ✅ 40. Combination Sum II
+- ✅ 46. Permutations
+- ✅ 47. permjutations II
 - ⬜ Remaining Problems
 
 ---
