@@ -132,7 +132,7 @@ Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
-Backtracking             ████░░░░░░ 40%
+Backtracking             ██████░░░░ 60%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -194,7 +194,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 60 / 75 Problems
+🟨 62 / 75 Problems
 
 ⬜ 100 Problems
 
