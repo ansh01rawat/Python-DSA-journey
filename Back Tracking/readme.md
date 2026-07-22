@@ -14,9 +14,9 @@ Backtracking is a recursive problem-solving technique that explores all possible
 | 40 | Combination Sum II | Medium | ✅ |
 | 46 | Permutations | Medium | ✅ |
 | 47 | Permutations II | Medium | ✅ |
-| 17 | Letter Combinations of a Phone Number | Medium | ⬜ |
-| 79 | Word Search | Medium | ⬜ |
-| 131 | Palindrome Partitioning | Medium | ⬜ |
+| 17 | Letter Combinations of a Phone Number | Medium | ✅ |
+| 79 | Word Search | Medium | ✅ |
+| 131 | Palindrome Partitioning | Medium | ✅ |
 | 51 | N-Queens | Hard | ⬜ |
 
 ---
@@ -79,6 +79,9 @@ Current Progress:
 - ✅ 40. Combination Sum II
 - ✅ 46. Permutations
 - ✅ 47. permjutations II
+- ✅ 17. Letter Combinations of a Phone Number
+- ✅ 79. Word Search
+- ✅ 131. Palindrome Partitioning 
 - ⬜ Remaining Problems
 
 ---
