@@ -17,7 +17,7 @@ Backtracking is a recursive problem-solving technique that explores all possible
 | 17 | Letter Combinations of a Phone Number | Medium | ✅ |
 | 79 | Word Search | Medium | ✅ |
 | 131 | Palindrome Partitioning | Medium | ✅ |
-| 51 | N-Queens | Hard | ⬜ |
+| 51 | N-Queens | Hard | ✅ |
 
 ---
 
@@ -81,7 +81,8 @@ Current Progress:
 - ✅ 47. permjutations II
 - ✅ 17. Letter Combinations of a Phone Number
 - ✅ 79. Word Search
-- ✅ 131. Palindrome Partitioning 
+- ✅ 131. Palindrome Partitioning
+- ✅ 51. N-Queens
 - ⬜ Remaining Problems
 
 ---
