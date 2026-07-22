@@ -32,7 +32,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Heap                |               06 |🟩 Completed     |
 | Trie                |               00 |        ⬜       |
 | Graphs              |               00 |        ⬜       |
-| Backtracking        |               06 |🟨 In Progress   |
+| Backtracking        |               09 |🟨 In Progress   |
 | Dynamic Programming |               00 |        ⬜       |
 | Greedy              |               00 |        ⬜       |
 | Sliding Window      |               00 |        ⬜       |
@@ -194,7 +194,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 62 / 75 Problems
+🟨 65 / 75 Problems
 
 ⬜ 100 Problems
 
