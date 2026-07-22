@@ -79,7 +79,7 @@ Python-DSA-Journey
 * ✔ Recursion
 * ✔ Trees
 * ✔ Heap
-* ✔ Back Tracking *In Progress*
+* ✔ Back Tracking (In Progress)
 
 ---
 
