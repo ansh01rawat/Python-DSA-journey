@@ -132,7 +132,7 @@ Queue                    ██████████ 100%
 Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
-Backtracking             ██████░░░░ 60%
+Backtracking             █████████░ 90%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
