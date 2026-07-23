@@ -35,11 +35,11 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Backtracking        |               10 |🟩 Completed     |
 | Dynamic Programming |               00 |        ⬜       |
 | Greedy              |               00 |        ⬜       |
-| Sliding Window      |               00 |        ⬜       |
+| Sliding Window      |               01 |🟨 In Progress   |
 
 ### 🏆 Total Problems Solved
 
-**66**
+**67**
 
 ---
 
@@ -56,6 +56,7 @@ Python-DSA-Journey
 ├── Queue
 ├── Recursion
 ├── Trees
+├── Sliding Window
 ├── Heap
 ├── Backtracking
 ├── OOP
@@ -79,7 +80,8 @@ Python-DSA-Journey
 * ✔ Recursion
 * ✔ Trees
 * ✔ Heap
-* ✔ Back Tracking
+* ✔ Backtracking
+* ✔ Sliding Window(In Progress)
 
 ---
 
@@ -89,7 +91,6 @@ Python-DSA-Journey
 * Graphs
 * Dynamic Programming
 * Greedy Algorithms
-* Sliding Window
 * Advanced Trees
 
 ---
@@ -133,6 +134,7 @@ Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
 Backtracking             ██████████ 100%
+Sliding Window           ░░░░░░░░░░ 0%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -165,6 +167,8 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 
 ✅ Heap
 
+🟨 Sliding Window (In Progress)
+
 ⬜ Trie
 
 ⬜ Graphs
@@ -194,7 +198,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 66 / 75 Problems
+🟨 67 / 75 Problems
 
 ⬜ 100 Problems
 
