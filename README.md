@@ -35,11 +35,11 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Backtracking        |               10 |🟩 Completed     |
 | Dynamic Programming |               00 |        ⬜       |
 | Greedy              |               00 |        ⬜       |
-| Sliding Window      |               01 |🟨 In Progress   |
+| Sliding Window      |               03 |🟨 In Progress   |
 
 ### 🏆 Total Problems Solved
 
-**67**
+**69**
 
 ---
 
@@ -134,7 +134,7 @@ Recursion                ██████████ 100%
 Trees                    ██████████ 100%
 Heap                     ██████████ 100%
 Backtracking             ██████████ 100%
-Sliding Window           ░░░░░░░░░░ 0%
+Sliding Window           ████░░░░░  40%
 Graphs                   ░░░░░░░░░░ 0%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
@@ -198,7 +198,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 67 / 75 Problems
+🟨 69 / 75 Problems
 
 ⬜ 100 Problems
 
