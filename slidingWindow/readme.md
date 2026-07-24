@@ -34,8 +34,10 @@ While solving these problems, I focused on:
 ## 📈 Problems Solved
 
 * ✅ Best Time to Buy and Sell Stock
+* ✅ Longest Substring Without Repeating Characters
+* ✅ Longest Repeating Character Replacement
 
-**Total Problems Solved:** **1**
+**Total Problems Solved:** **3**
 
 ---
 
@@ -91,8 +93,6 @@ As I continue learning, this folder will grow with more classic Sliding Window p
 
 ## 🎯 Upcoming Problems
 
-* ⬜ Longest Substring Without Repeating Characters
-* ⬜ Longest Repeating Character Replacement
 * ⬜ Permutation in String
 * ⬜ Minimum Window Substring
 * ⬜ Sliding Window Maximum
