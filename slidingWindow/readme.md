@@ -38,8 +38,10 @@ While solving these problems, I focused on:
 * ✅ Longest Repeating Character Replacement
 * ✅ Permutation in String
 * ✅ Find All Anagrams in a String
+* ✅ Subarray Product Less Than K
+* ✅ Minimum Size Subarray Sum
 
-**Total Problems Solved:** **5**
+**Total Problems Solved:** **7**
 
 ---
 
