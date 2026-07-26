@@ -35,11 +35,11 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Backtracking        |               10 |🟩 Completed     |
 | Dynamic Programming |               00 |        ⬜       |
 | Greedy              |               00 |        ⬜       |
-| Sliding Window      |               05 |🟨 In Progress   |
+| Sliding Window      |               07 |🟨 In Progress   |
 
 ### 🏆 Total Problems Solved
 
-**71**
+**73**
 
 ---
 
@@ -198,7 +198,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 50 Problems
 
-🟨 71 / 75 Problems
+🟨 73 / 75 Problems
 
 ⬜ 100 Problems
 
@@ -212,6 +212,7 @@ This repository will continue to grow throughout my engineering journey.
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/ansh01rawat
+- https://leetcode.com/u/anshuuu2/
 
 ---
 
