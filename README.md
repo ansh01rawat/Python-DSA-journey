@@ -212,7 +212,7 @@ This repository will continue to grow throughout my engineering journey.
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/ansh01rawat
-- https://leetcode.com/u/anshuuu2/
+- LeetCode: https://leetcode.com/u/anshuuu2/
 
 ---
 
