@@ -40,8 +40,10 @@ While solving these problems, I focused on:
 * ✅ Find All Anagrams in a String
 * ✅ Subarray Product Less Than K
 * ✅ Minimum Size Subarray Sum
+* ✅ Max Consecutive Ones III
+* ✅ Fruit Into Baskets
 
-**Total Problems Solved:** **7**
+**Total Problems Solved:** **9**
 
 ---
 
