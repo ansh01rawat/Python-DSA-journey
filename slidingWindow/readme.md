@@ -42,8 +42,10 @@ While solving these problems, I focused on:
 * ✅ Minimum Size Subarray Sum
 * ✅ Max Consecutive Ones III
 * ✅ Fruit Into Baskets
+* ✅ Maximum Average Subarray I
+* ✅ Sliding Window Maximum
 
-**Total Problems Solved:** **9**
+**Total Problems Solved:** **11**
 
 ---
 
@@ -97,15 +99,10 @@ As I continue learning, this folder will grow with more classic Sliding Window p
 
 ---
 
-## 🎯 Upcoming Problems
-
-* ⬜ Minimum Window Substring
-* ⬜ Sliding Window Maximum
-
 ---
 
 ## 📊 Status
 
-🟨 **In Progress**
+✅ **completed**
 
 This section is part of my journey to master Data Structures & Algorithms using Python and prepare for software engineering interviews.
