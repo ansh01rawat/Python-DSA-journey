@@ -81,7 +81,7 @@ Python-DSA-Journey
 * ✔ Trees
 * ✔ Heap
 * ✔ Backtracking
-* ✔ Sliding Window(In Progress)
+* ✔ Sliding Window
 
 ---
 
