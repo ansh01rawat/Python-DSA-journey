@@ -31,7 +31,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Trees               |               15 |🟩 Completed     |
 | Heap                |               06 |🟩 Completed     |
 | Trie                |               00 |        ⬜       |
-| Graphs              |               00 |        ⬜       |
+| Graphs              |               07 |        ⬜       |
 | Backtracking        |               10 |🟩 Completed     |
 | Dynamic Programming |               00 |        ⬜       |
 | Greedy              |               00 |        ⬜       |
@@ -39,7 +39,7 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 
 ### 🏆 Total Problems Solved
 
-**77**
+**84**
 
 ---
 
@@ -82,6 +82,7 @@ Python-DSA-Journey
 * ✔ Heap
 * ✔ Backtracking
 * ✔ Sliding Window
+* ✔ Graphs
 
 ---
 
@@ -135,7 +136,7 @@ Trees                    ██████████ 100%
 Heap                     ██████████ 100%
 Backtracking             ██████████ 100%
 Sliding Window           ██████████ 100%
-Graphs                   ░░░░░░░░░░ 0%
+Graphs                   █████░░░░░ 50%
 Dynamic Programming      ░░░░░░░░░░ 0%
 ```
 
@@ -200,7 +201,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 75 Problems
 
-🟨 77/100 Problems
+🟨 84/100 Problems
 
 ⬜ First Internship
 
