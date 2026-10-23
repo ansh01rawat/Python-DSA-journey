@@ -30,16 +30,13 @@ My goal is not just to solve coding problems, but to build strong problem-solvin
 | Recursion           |               03 |🟩 Completed     |
 | Trees               |               15 |🟩 Completed     |
 | Heap                |               06 |🟩 Completed     |
-| Trie                |               00 |        ⬜       |
-| Graphs              |               07 |        ⬜       |
+| Graphs              |               07 |🟩 Completed     |
 | Backtracking        |               10 |🟩 Completed     |
-| Dynamic Programming |               00 |        ⬜       |
-| Greedy              |               00 |        ⬜       |
 | Sliding Window      |               11 |🟩 Completed     |
 
 ### 🏆 Total Problems Solved
 
-**84**
+**100**
 
 ---
 
@@ -86,16 +83,6 @@ Python-DSA-Journey
 
 ---
 
-# 🚀 Upcoming Topics
-
-* Trie
-* Graphs
-* Dynamic Programming
-* Greedy Algorithms
-* Advanced Trees
-
----
-
 # 🛠 Mini Projects
 
 This repository also includes beginner Python projects to apply programming concepts in real-world scenarios.
@@ -136,8 +123,7 @@ Trees                    ██████████ 100%
 Heap                     ██████████ 100%
 Backtracking             ██████████ 100%
 Sliding Window           ██████████ 100%
-Graphs                   █████░░░░░ 50%
-Dynamic Programming      ░░░░░░░░░░ 0%
+Graphs                   ██████████ 100%
 ```
 
 ---
@@ -170,21 +156,9 @@ Dynamic Programming      ░░░░░░░░░░ 0%
 
 ✅ Sliding Window
 
-⬜ Trie
-
-⬜ Graphs
+✅ Graphs
 
 ✅ Backtracking
-
-⬜ Greedy
-
-⬜ Dynamic Programming
-
-⬜ Machine Learning
-
-⬜ Deep Learning
-
-⬜ AI Projects
 
 
 This repository will continue to grow throughout my engineering journey.
@@ -201,7 +175,7 @@ This repository will continue to grow throughout my engineering journey.
 
 ✅ 75 Problems
 
-🟨 84/100 Problems
+✅ 100/100 Problems
 
 ⬜ First Internship
 
